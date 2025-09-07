@@ -20,7 +20,7 @@ A Java-based application for managing hostel operations, including room allocati
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/HostelManageMentSystem.git
+    git clone https://github.com/saurabhawasthi2/Hostel-Management-Java
     ```
 2. Open the project in your preferred IDE.
 3. Configure the database connection in the configuration file.
